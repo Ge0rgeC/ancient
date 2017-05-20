@@ -1,0 +1,1 @@
+C:\Dev\ancient\RabbitApp\RabbitApp\bin\Debug\RabbitApp.exe.config
